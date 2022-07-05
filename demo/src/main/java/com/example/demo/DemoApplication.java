@@ -1,13 +1,13 @@
-package net.yorksolutions.recruiting_automation_tool;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecruitingAutomationToolApplication {
+public class DemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RecruitingAutomationToolApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
     }
 
 }

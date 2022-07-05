@@ -1,10 +1,10 @@
-package net.yorksolutions.recruiting_automation_tool;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RecruitingAutomationToolApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {
